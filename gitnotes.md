@@ -21,7 +21,22 @@ Actual notes:
 
 ### Tracking Changes
 
+* `git diff`: shows changes not yet tracked (changes since the las add)
 
-Change 1
+### Unnecessary changes to experiment:
+
+Change 1.1
 
 Change 2 - to be committed
+
+Change 3.2
+
+Change 4.1
+
+Change 5.2
+
+Change 6
+
+Change 7
+
+Change 8 change 9
