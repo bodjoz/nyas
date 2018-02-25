@@ -10,7 +10,13 @@ This is ```inline code```
 
 \[ f(x) = x^y  \]
 
-Actual note:
+Actual notes:
 
 * `git init`: initializes repository
 * `git status`: gives status of repo
+* `git add`: adds files to betracked
+* `git commit`: I dedicate myself to a version
+
+---
+
+### Tracking Changes
